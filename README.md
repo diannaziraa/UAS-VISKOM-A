@@ -1,14 +1,15 @@
 **Identitas Pengembang**
 
-Nama  : Dian Nazira
+**Nama  : Dian Nazira**
 
-NPM   : 2308107010011
+**NPM   : 2308107010011**
 
 **Sistem Pemantauan Kehadiran Otomatis (Face Counting)**
 
   Proyek ini adalah sistem berbasis Computer Vision yang dirancang untuk mendeteksi, melacak, dan menghitung jumlah orang di dalam ruangan secara real-time menggunakan kamera laptop.
+  
 
-**Fitur Utama**
+🚀**Fitur Utama**
 
 **1. Deteksi Wajah Akurat:** Menggunakan algoritma Haar Cascade dengan parameter yang diperketat untuk mengurangi kesalahan deteksi.
 
@@ -19,14 +20,16 @@ NPM   : 2308107010011
 **4. Logging Real-Time:** Mencetak data waktu, jumlah orang, dan ID ke terminal secara langsung.
 
 
-**Prasyarat (Requirements)**
+
+🛠️**Prasyarat (Requirements)**
 
 **Pastikan Anda telah menginstal Python dan pustaka berikut:**
 
 - pip install opencv-python numpy
 
 
-**Struktur File**
+
+📂**Struktur File**
 
 **- Main.py:** Kode program utama (Python).
 
@@ -35,7 +38,8 @@ NPM   : 2308107010011
 **- README.md:** Dokumen ini.
 
 
-**Cara Menjalankan**
+
+▶️ **Cara Menjalankan**
 
 1. Buka terminal atau VS Code.
 2. Jalankan perintah berikut:
